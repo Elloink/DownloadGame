@@ -19,4 +19,4 @@
 bainesing@qq.com
 bainesing@gmail.com
 或者私信
-https://twitter.com/bainesing
+https://twitter.com/inuyasha_new
