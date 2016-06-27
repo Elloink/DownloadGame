@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DownloadGame</string>
+    <string name = "code_act_title">身份验证</string>
+    <string name = "code_act_text">"为确保数据安全，请提供您的身份验证码。
+身份验证码由8-10位阿拉伯数字组成，请核对身份码与密码后，再点击“开始验证”。"</string>
+    <string name = "person_code">身份码</string>
+    <string name = "prerson_code_comm">纯数字</string>
+    <string name = "password_title">" 密 码 "</string>
+    <string name = "password_comm">请输入密码</string>
+
+</resources>
